@@ -35,4 +35,4 @@ python balance_teams.py <file> <team_size> [--algorithm <algorithm>]
 
 The input file should have one player per line in the format:
 
-<Name> <Rating>
+`<Name>` `<Rating>`
